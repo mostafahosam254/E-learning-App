@@ -31,8 +31,8 @@ Cybersecurity Specialist & Penetration Tester
 
 ## 📎 Files
 
-- `Security_Report_Jomaa_App.pdf` – Full detailed report
+- `E-learning-app-report-x.pdf` – Full detailed report
 
 ---
 
-> For any questions or collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME).
+> For any questions or collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mostafa-hosam-270894212/).
